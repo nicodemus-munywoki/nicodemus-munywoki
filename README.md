@@ -26,6 +26,6 @@ Hey there! 👋 I'm Nicodemus Munywoki
 
 Ready to embark on a coding adventure together? Connect with me on:
 
-- [LinkedIn](www.linkedin.com/in/nicodemus-ketema-075748224)
+- [LinkedIn](www.linkedin.com/in/nicodemus-kitema-075748224)
 
 Let's build something amazing! 🚀
