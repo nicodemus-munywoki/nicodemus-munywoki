@@ -2,14 +2,6 @@
 
 Hey there! 👋 I'm Nicodemus Munywoki
 
-## 🚀 About Me
-
-- 💻 As a developer, I turn coffee into code and transform ideas into reality.
-- 🚀 I believe in constant evolution, and I'm on a mission to learn something new every day.
-- 🎓 B.Sc. Computer Science graduate. Yes, I aced those all-night coding sessions!
-
-## 📈 GitHub Stats
-
 # 💫 About Me:
 As a developer, I turn coffee into code and transform ideas into reality.<br>🚀 I believe in constant evolution, and I'm on a mission to learn something new every day.<br>🎓 B.Sc. Computer Science graduate. Yes, I aced those all-night coding sessions!
 
