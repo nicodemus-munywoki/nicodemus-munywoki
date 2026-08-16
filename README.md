@@ -65,9 +65,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
 
+  <!-- Top Languages Card (Using GitHub Profile Summary Cards engine) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodemus-munywoki&theme=tokyonight" height="150" alt="GitHub Summary" />
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=nicodemus-munywoki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
