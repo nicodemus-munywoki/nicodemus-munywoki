@@ -65,13 +65,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+<div align="center">
 
-  <!-- Top Languages Card (Using GitHub Profile Summary Cards engine) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="150" alt="GitHub Stats" /> -->
+<br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodemus-munywoki&theme=tokyonight" height="150" alt="GitHub Summary" />
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=nicodemus-munywoki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br />
+  <img src="https://streak-stats.demolab.com/?user=nicodemus-munywoki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
