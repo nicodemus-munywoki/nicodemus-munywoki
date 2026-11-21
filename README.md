@@ -64,16 +64,26 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=nicodemus-munywoki" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=6&theme=radical"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="150" alt="GitHub Stats" /> -->
-<br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodemus-munywoki&theme=tokyonight" height="190" alt="GitHub Summary" />
-<br />
-  <img src="https://streak-stats.demolab.com/?user=nicodemus-munywoki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <table frame="void" rules="none">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-stats-extended.vercel.app/api?username=nicodemus-munywoki" width="420" alt="GitHub Stats" />
+      </td>
+      <td align="center" rowspan="2" style="border: none;">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nicodemus-munywoki&langs_count=8&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=nicodemus-munywoki&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodemus-munywoki&theme=tokyonight" width="100%" alt="GitHub Summary" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -84,5 +94,9 @@
 - 📧 **Email:** [Get in Touch](mailto:nicodemus.munywoki@example.com)
 
 <div align="center">
-  <sub>Designed & Maintained by Nicodemus Munywoki • Built with Markdown</sub>
+  <div align="center">
+  <sub>
+    <!--COPYRIGHT_START-->© 2026<!--COPYRIGHT_END--> 𝓷𝓲𝓬𝓑𝓲𝓽𝓼   •   Designed &amp; Maintained by 𝓷𝓲𝓬𝓑𝓲𝓽𝓼   •   Powered by Curiosity & Code
+  </sub>
+</div>
 </div>
