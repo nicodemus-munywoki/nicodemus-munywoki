@@ -67,10 +67,10 @@
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=nicodemus-munywoki" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=radical"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=6&theme=radical"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=nicodemus-munywoki&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="150" alt="GitHub Stats" /> -->
 <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodemus-munywoki&theme=tokyonight" height="150" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodemus-munywoki&theme=tokyonight" height="190" alt="GitHub Summary" />
 <br />
   <img src="https://streak-stats.demolab.com/?user=nicodemus-munywoki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
